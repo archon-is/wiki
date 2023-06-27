@@ -1,0 +1,26 @@
+{
+  "componentChunkName": "component---src-pages-index-tsx",
+  "path": "/",
+  "result": {
+    "data": {
+      "allArticle": {
+        "nodes": [
+          { "id": "9d1445b4-f01c-4284-98ff-fb56d7494949", "status": "Need to fix", "name": "Cost of Goods Sold (COGS)" },
+          { "id": "6ad4531e-fe1c-4651-bc4e-d0302147d576", "status": "Need to fix", "name": "Average Order Value (AOV)" },
+          { "id": "f958e48c-9da0-4ff6-836d-96c71c5621b5", "status": "Done", "name": "Lifetime Value (LTV)" },
+          { "id": "685ca0ba-2d90-4f36-a6ca-fbde397b2d28", "status": "Need to fix", "name": "Customer Lifetime Value (CLTV)" },
+          { "id": "44a255b8-8b4d-4029-b55e-5a645cb05bd5", "status": "Need to fix", "name": "Cost per User (CPU)" },
+          { "id": "59bf2aa4-5048-447e-82bc-21a671bb6dce", "status": "Need to fix", "name": "Average Revenue per User (ARPU)" },
+          { "id": "58b86de1-2178-4223-8108-2098099f7391", "status": "Need to fix", "name": "Customer Satisfaction Index (CSI, CSAT)" },
+          { "id": "1b2fadb7-19d5-4126-981d-18721cd9c402", "status": "Need to fix", "name": "Net Promoter Score (NPS)" },
+          { "id": "e4582ecb-995e-48e5-b48f-318f12c8eaf4", "status": "Need to fix", "name": "Conversion Rate (CR)" },
+          { "id": "d71f4f98-9dad-4f22-87db-047d345d42d0", "status": "Need to fix", "name": "Customer acquisition cost (CAC)" },
+          { "id": "7451af10-6b8c-4b50-9164-59b352079bc9", "status": "Need to fix", "name": "Return on Marketing Investment (ROMI) " }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": [],
+  "slicesMap": {}
+}

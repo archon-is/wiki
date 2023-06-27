@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[691],{381:function(e,l,t){t.r(l),t.d(l,{Head:function(){return a}});var n=t(2784);l.default=e=>n.createElement("main",null,n.createElement("h1",null,"Wiki"),n.createElement("p",null,"Articles"),n.createElement("ul",null,e.data.allArticle.nodes.map((e=>n.createElement("li",null,n.createElement("a",{href:"/"+e.id+"/"},e.name),n.createElement("span",null,e.status))))));const a=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-a3a5392052ee51e1c9ad.js.map
